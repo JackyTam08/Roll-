@@ -5,10 +5,10 @@
 // @description  Rolling Dice
 // @author       You
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=animemusicquiz.com
-// @match        https://animemusicquiz.com/
+// @match        https://*.animemusicquiz.com/*
 // @grant        none
-// @downloadURL  https://github.com/JackyTam08/Roll-/blob/main/amqRollingDice.js
-// @updateURL    https://github.com/JackyTam08/Roll-/blob/main/amqRollingDice.js
+// @downloadURL  https://raw.githubusercontent.com/JackyTam08/Roll-/main/amqRollingDice.user.js
+// @updateURL    https://raw.githubusercontent.com/JackyTam08/Roll-/main/amqRollingDice.user.js
 // ==/UserScript==
 
 // 🎲 turn off list 🙏
