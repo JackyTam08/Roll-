@@ -2,10 +2,13 @@
 // @name         AMQ Autoroll script
 // @namespace    http://tampermonkey.net/
 // @version      2025-05-20
+// @description  Rolling Dice
 // @author       You
-// @match        https://animemusicquiz.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=animemusicquiz.com
+// @match        https://animemusicquiz.com/
 // @grant        none
+// @downloadURL  https://github.com/JackyTam08/Roll-/blob/main/amqRollingDice.js
+// @updateURL    https://github.com/JackyTam08/Roll-/blob/main/amqRollingDice.js
 // ==/UserScript==
 
 // 🎲 turn off list 🙏
